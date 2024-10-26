@@ -4,7 +4,7 @@
 I am a developer interested in web development and the latest technologies. Currently, I am focused on developing applications using JavaScript and frameworks like React and Node.js.
 
 ## Featured Project
-- [ZET AI](link-to-project-1) : ZET AI is a virtual assistant with various features.
+- [ZET AI](https://github.com/ZetSphere/zet-ai-v2.0) : ZET AI is a virtual assistant with various features.
 
 ## Technologies I Know
 - HTML, CSS, JavaScript
