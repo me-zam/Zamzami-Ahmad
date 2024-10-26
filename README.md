@@ -1,22 +1,20 @@
-# Selamat Datang di Profil GitHub Saya! 👋
+# Welcome to My GitHub Profile! 👋
 
+## About Me
+I am a developer interested in web development and the latest technologies. Currently, I am focused on developing applications using JavaScript and frameworks like React and Node.js.
 
-## Tentang Saya
-Saya adalah seorang developer yang tertarik dalam pengembangan web dan teknologi terbaru. Saat ini, saya fokus pada pengembangan aplikasi menggunakan JavaScript dan framework seperti React dan Node.js.
+## Featured Project
+- [ZET AI](link-to-project-1) : ZET AI is a virtual assistant with various features.
 
-## Proyek Unggulan
-- [ZET AI](link-ke-proyek-1) : ZET AI Adalah Asisten Virtual dengan Berbagai Fitur.
-
-## Teknologi yang Saya Kuasai
+## Technologies I Know
 - HTML, CSS, JavaScript
 - React, Node.js, Express
 - MySQL, MongoDB
 
-## Kontak
-- [LinkedIn](link-ke-linkedin)
-- [Twitter](link-ke-twitter)
-- [Website](link-ke-website)
+## Contact
+- [LinkedIn](link-to-linkedin)
+- [Twitter](link-to-twitter)
+- [Website](link-to-website)
 
-## Lisensi
-[MIT License](link-ke-license)
-
+## License
+[MIT License](link-to-license)
