@@ -5,7 +5,7 @@
 Saya adalah seorang developer yang tertarik dalam pengembangan web dan teknologi terbaru. Saat ini, saya fokus pada pengembangan aplikasi menggunakan JavaScript dan framework seperti React dan Node.js.
 
 ## Proyek Unggulan
-- [ZET AI : ](link-ke-proyek-1): ZET AI Adalah Asisten Virtual dengan Berbagai Fitur.
+- [ZET AI](link-ke-proyek-1) : ZET AI Adalah Asisten Virtual dengan Berbagai Fitur.
 
 ## Teknologi yang Saya Kuasai
 - HTML, CSS, JavaScript
