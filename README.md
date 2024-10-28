@@ -4,7 +4,7 @@
 Hello! I'm **Zamzami Ahmad**, a passionate junior programmer and student. I have a strong interest in web development and I'm constantly exploring the latest technologies. Currently, I'm focused on mastering **JavaScript** and working with frameworks like **React** and **Node.js** to build amazing applications.
 
 ## Featured Projects
-- [**ZET AI** ](https://github.com/ZetSphere/zet-ai-v2.0)
+ [**ZET AI** ](https://github.com/ZetSphere/zet-ai-v2.0)
 
    
   A virtual assistant designed to interact with users in a unique and engaging way, featuring advanced capabilities like voice responses and image generation.
