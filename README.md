@@ -18,7 +18,10 @@ Hello! I'm **Zamzami Ahmad**, a passionate junior programmer and student. I have
 ## Connect with Me
 - [LinkedIn](link-to-linkedin)  
 - [Twitter](link-to-twitter)  
-- [Website](link-to-website)  
+- [Instagram](link-to-website)
+- [Tiktok](link-to-website)
+- [Youtube](link-to-website)
+- [Website](link-to-website)
 
 Feel free to reach out if you want to collaborate or just chat about tech! 🤝
 
