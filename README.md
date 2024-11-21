@@ -3,11 +3,6 @@
 ## About Me
 I'm **Zamzami Ahmad**, an 18-year-old fullstack developer passionate about web development. I specialize in **JavaScript**, **React**, **Node.js**, and **MySQL**, and I'm always exploring new technologies.
 
-## Languages
-- **Indonesian**: Native
-- **English**: Fluent
-- **Japanese**: Intermediate
-
 ## Portfolio
 [**MY Portfolio**](https://github.com/ZetSphere/zet-ai-v2.0)
 
