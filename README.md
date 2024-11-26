@@ -6,11 +6,6 @@ I'm **Zamzami Ahmad**, an 18-year-old fullstack developer passionate about web d
 ## Portfolio
 [**MY Portfolio**](https://github.com/ZetSphere/zet-ai-v2.0)
 
-## Skills
-- **Frontend**: React, Svelte, Vue, Sass, Tailwind, Bootstrap
-- **Backend**: Node.js, Express.js, Next.js, Laravel, MySQL, PostgreSQL, MongoDB
-- **Tools**: Git, GitHub, Docker, Postman, Jest, CI/CD, Webpack
-
 ## Connect with Me
 - [LinkedIn](link-to-linkedin)  
 - [Twitter](link-to-twitter)  
