@@ -18,7 +18,7 @@
 
 # <h1> My Social Media :</h1>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,instagram,linkedin,twitter" />
   </a>
