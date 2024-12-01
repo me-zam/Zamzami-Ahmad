@@ -1,3 +1,6 @@
+<img align="right" src="[![](https://visitcount.itsvg.in/api?id=ZetSphere&icon=0&color=0)](https://visitcount.itsvg.in)">
+
+
 # <h1 align="center">Hi 👋, I'm Zamzami Ahmad</h1>
 
   <p align="center">a passionate Fullstack Developer</p>
@@ -11,8 +14,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZetSphere/ZetSphere/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ZetSpherer/ZetSphere/output/github-snake.svg" />
 </picture>
-<br>
-<br>
-
-
-[![](https://visitcount.itsvg.in/api?id=ZetSphere&icon=0&color=0)](https://visitcount.itsvg.in)
