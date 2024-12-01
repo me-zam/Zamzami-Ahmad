@@ -23,7 +23,8 @@
 # <h1> My Contribution :</h1>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZetSphere/ZetSphere/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZetSphere/ZetSphere/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ZetSpherer/ZetSphere/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZetSphere/ZetSphere/output/github-snake-dark.svg?color=%23FF5733" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZetSphere/ZetSphere/output/github-snake.svg?color=%23FF5733" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ZetSphere/ZetSphere/output/github-snake.svg?color=%23FF5733" />
 </picture>
+
