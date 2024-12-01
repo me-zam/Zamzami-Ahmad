@@ -1,3 +1,4 @@
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimarticus.org%2Fblog%2Fhow-do-full-stack-developers-navigate-work-life-balance%2F&psig=AOvVaw1zfIMA3Vt9kq2LQ2KU6_Ra&ust=1733152159087000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiqp5LthooDFQAAAAAdAAAAABAI)]
 # <h1 align="center">Hi 👋, I'm Zamzami Ahmad</h1>
 
   <p align="center">A passionate Fullstack Developer</p>
