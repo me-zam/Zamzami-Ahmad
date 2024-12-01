@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=4000&pause=1000&color=15F7F5&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Zamzami+Ahmad!;"/>
 </h1>
 
-  <p align="center">a passionate Fullstack Developer</p>
-  <p align="center">a passionate MERN Developer</p>
-  <p align="center">a passionate MEAN Developer</p>
+#  About Me:
+🔭 I’m currently working on Fullstack Developer<br>👯 I’m looking to collaborate<br>🤝 I’m looking for help<br>🌱 I’m currently learning Ruby on RAils<br>💬 Ask me about MEAN, MERN and MEVN<br>⚡ Fun fact I'm just 18 years old
+
 
 # <h1 align="center"> My Tech Stack :</h1>
 
