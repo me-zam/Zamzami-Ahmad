@@ -1,4 +1,4 @@
-<img src="https://via.placeholder.com/1500x300?text=Welcome+to+My+GitHub+Profile" alt="Banner Image" width="100%" />
+<img src="[https://via.placeholder.com/1500x300?text=Welcome+to+My+GitHub+Profile](https://i.pinimg.com/736x/b6/9a/34/b69a34c28a3434411e484b875aec1d13.jpg)" alt="Banner Image" width="100%" />
 
 
 <img align="right" src="https://visitcount.itsvg.in/api?id=ZetSphere&icon=0&color=0)](https://visitcount.itsvg.in">
