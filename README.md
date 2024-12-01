@@ -1,6 +1,6 @@
 # <h1 align="center">Hi 👋, I'm Zamzami Ahmad</h1>
 
-  <p align="center">A passionate Fullstack Developer</p>
+  <p align="center">a passionate Fullstack Developer</p>
 
 # 💻 My Tech Stack :
 
