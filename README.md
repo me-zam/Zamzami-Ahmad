@@ -6,12 +6,12 @@
 </h1>
 
 # About Me:
-<h6>🔭 I’m currently working on Fullstack Developer</h6>                                     
-<h6>👯 I’m looking to collaborate open-source project</h6>                       
-<h6>🤝 I will help anyone as much as I can</h6>                  
-<h6>🌱 I’m currently learning Ruby on Rails</h6>                             
-<h6>💬 Ask me about Tech Stack MERN and MEVN</h6>                  
-<h6>⚡ Fun fact: I can speak Japanese and I'm N4</h6>                  
+<h6>🔭 I’m currently working on Fullstack Developer</h6>                      
+<h6>👯 I’m looking to collaborate open-source project</h6>                    
+<h6>🤝 I will help anyone as much as I can</h6>           
+<h6>🌱 I’m currently learning Ruby on Rails</h6>                          
+<h6>💬 Ask me about Tech Stack MERN and MEVN</h6>              
+<h6>⚡ Fun fact: I can speak Japanese and I'm N4</h6>              
 
 # <h1> My Tech Stack :</h1>
 
