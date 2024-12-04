@@ -6,7 +6,7 @@
 </h1>
 
 # About Me:
-<h6>🔭 I’m currently working on Fullstack Developer</h6>       
+<h4>🔭 I’m currently working on Fullstack Developer</h4>       
 👯 I’m looking to collaborate open-source project      
 🤝 I will help anyone as much as I can      
 🌱 I’m currently learning Ruby on Rails       
