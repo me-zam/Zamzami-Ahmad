@@ -2,11 +2,11 @@
 <br>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=4000&pause=1000&color=15F7F5&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Zamzami+Ahmad!;"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=4000&pause=1000&color=15F7F5&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Zamzami+Ahmad!;"/>
 </h1>
 
 # About Me:
-🔭 <b>I’m currently working on Fullstack Developer<b>
+🔭 I’m currently working on Fullstack Developer
 
 👯 I’m looking to collaborate open-source project 
 
