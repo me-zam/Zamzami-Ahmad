@@ -7,7 +7,7 @@
 
 # About Me:
 🔭 I’m currently working on Fullstack Developer  
-👯 I’m looking to collaborate with open-source project 
+👯 I’m looking to collaborate open-source project 
 🤝 I will help anyone as much as I can
 🌱 I’m currently learning Ruby on Rails  
 💬 Ask me about Tech Stack MERN and MEVN  
