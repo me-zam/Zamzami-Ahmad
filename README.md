@@ -6,11 +6,16 @@
 </h1>
 
 # About Me:
-🔭 I’m currently working on Fullstack Developer  
+🔭 I’m currently working on Fullstack Developer
+
 👯 I’m looking to collaborate open-source project 
+
 🤝 I will help anyone as much as I can
+
 🌱 I’m currently learning Ruby on Rails  
+
 💬 Ask me about Tech Stack MERN and MEVN  
+
 ⚡ Fun fact: I can speak Japanese and I'm N4
 
 # <h1> My Tech Stack :</h1>
