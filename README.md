@@ -3,9 +3,7 @@
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=4000&pause=1000&color=15F7F5&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Zamzami+Ahmad!;"/>
-</h1>
-
-# I Can speak Japanese and I'm N3   
+</h1>  
 
 # <h1> My Tech Stack :</h1>
 
@@ -22,4 +20,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZetSphere/ZetSphere/output/github-snake.svg?color=%23FF5733" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ZetSphere/ZetSphere/output/github-snake.svg?color=%23FF5733" />
 </picture>
-
