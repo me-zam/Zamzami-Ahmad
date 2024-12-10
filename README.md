@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=5000&pause=2500&color=001A6E&background=D9EAFD&center=true&vCenter=true&width=1200&height=300&lines=Hi+there!+👋+,+ + I'm+Zamzami+Ahmad!;Welcome+to+My+Github+Profile!!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=5000&pause=2500&color=001A6E&background=D9EAFD&center=true&vCenter=true&width=1200&height=150&lines=Hi+there!+👋+,+ + I'm+Zamzami+Ahmad!;Welcome+to+My+Github+Profile!!"/>
 </h1>  
 
 # <h1> My Tech Stack :</h1>
