@@ -2,7 +2,7 @@
 <br>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=1000&color=001A6E&background=D9EAFD&center=true&vCenter=true&width=1200&lines=Hi+there!+👋;I'm+Zamzami+Ahmad!;Welcome+to+My+Github!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1000&color=001A6E&background=D9EAFD&center=true&vCenter=true&width=1200&lines=Hi+there!+👋;I'm+Zamzami+Ahmad!;Welcome+to+My+Github!"/>
 </h1>  
 
 # <h1> My Tech Stack :</h1>
