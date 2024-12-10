@@ -1,7 +1,5 @@
-<img align="right" src="https://visitcount.itsvg.in/api?id=ZetSphere&icon=0&color=0)](https://visitcount.itsvg.in"> 
-<br>
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1000&color=001A6E&background=D9EAFD&center=true&vCenter=true&width=1200&lines=Hi+there!+👋;I'm+Zamzami+Ahmad!;Welcome+to+My+Github!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3500&pause=1000&color=001A6E&background=D9EAFD&center=true&vCenter=true&width=1200&lines=Hi+there!+👋;I'm+Zamzami+Ahmad!;Welcome+to+My+Github!"/>
 </h1>  
 
 # <h1> My Tech Stack :</h1>
@@ -19,3 +17,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZetSphere/ZetSphere/output/github-snake.svg?color=%23FF5733" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ZetSphere/ZetSphere/output/github-snake.svg?color=%23FF5733" />
 </picture>
+<br>
+<img align="right" src="https://visitcount.itsvg.in/api?id=ZetSphere&icon=0&color=0)](https://visitcount.itsvg.in"> 
